@@ -1,5 +1,8 @@
 # weather_app_intership
-
+# Run Project:
+flutter clean
+flutter pub get
+flutter run
 A new Flutter project.
 
 ## Getting Started
